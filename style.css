@@ -669,6 +669,7 @@ textarea.contact-form-text{
   padding: 0 1rem;
   max-width: 1100px;
   text-align: center;
+  margin-bottom: 100px;
 }
 
 .title{
@@ -678,9 +679,11 @@ textarea.contact-form-text{
   margin-bottom: .5rem;
   font-weight: 200;
 }
+
 .note{
   font-size: 1.1rem;
   color: #808080;
+  margin-bottom: 50px;
 }
 
 .reviews{
@@ -702,16 +705,9 @@ textarea.contact-form-text{
 .review img{
   width: 100%;
   height: 100%;
-  object-fit: cover;
   border-radius: 50%;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, .25);
 }
 
-.body-review{
-  background-color: rgb(238, 238, 238);
-  padding: 2.5rem;
-  box-shadow: 2px 2px 10px 3px rgb(225, 225, 225);
-}
 .name-review{
   font-size: 1.5rem;
   color: rgb(50, 50, 50);
